@@ -2,3 +2,4 @@ openpyxl
 pandas
 numpy
 igraph
+statsmodels
